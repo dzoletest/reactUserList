@@ -1,0 +1,33 @@
+body {
+  background: white;
+  padding: 20px;
+  font-family: Helvetica;
+}
+
+label {
+  font-weight: bold;
+  font-size: 1.5rem;
+  display: block;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 5px;
+}
+
+input {
+  padding: 10px 15px;
+  margin-top: 10px;
+  width: 200px;
+}
+
+.filter-button {
+  display: block;
+  margin-top: 20px;
+  padding: 5px;
+}
+
+.dots{
+  list-style-type: none;
+}
